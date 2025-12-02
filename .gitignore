@@ -1,0 +1,9 @@
+# Carpetas de compilación (Basura)
+Debug/
+Release/
+
+# Archivos de configuración de usuario/IDE
+.settings/
+.metadata/
+.launches/
+targetConfigs/
